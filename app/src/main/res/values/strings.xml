@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pijltjes Weg</string>
+    <string name="level_n">Level %1$d</string>
+    <string name="arrows_left">Nog %1$d</string>
+    <string name="level_done">Level %1$d gehaald!</string>
+    <string name="next">Volgende</string>
+    <string name="game_over">Geen levens meer</string>
+    <string name="game_over_msg">Je pijlen botsten te vaak. Opnieuw proberen, of een filmpje kijken voor een extra leven?</string>
+    <string name="retry">Opnieuw</string>
+    <string name="watch_for_life">Extra leven (advertentie)</string>
+    <string name="hint">Hint</string>
+    <string name="hint_msg">Bekijk een korte advertentie en we laten zien welke pijl vrij is.</string>
+    <string name="watch">Bekijken</string>
+    <string name="cancel">Annuleren</string>
+    <string name="no_ad">Er is nu geen advertentie beschikbaar. Probeer het zo nog eens.</string>
+    <string name="restart">Opnieuw</string>
+    <string name="privacy">Privacy</string>
+</resources>
